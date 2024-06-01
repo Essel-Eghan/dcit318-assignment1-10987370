@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\bin\Debug\net7.0\TicketCalculator.exe
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\bin\Debug\net7.0\TicketCalculator.deps.json
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\bin\Debug\net7.0\TicketCalculator.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\bin\Debug\net7.0\TicketCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\bin\Debug\net7.0\TicketCalculator.pdb
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\refint\TicketCalculator.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.pdb
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\TicketCalculator.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TicketCalculator\obj\Debug\net7.0\ref\TicketCalculator.dll
