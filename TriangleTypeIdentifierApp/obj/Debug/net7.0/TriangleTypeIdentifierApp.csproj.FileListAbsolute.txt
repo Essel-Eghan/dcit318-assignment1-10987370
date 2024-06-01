@@ -1,0 +1,14 @@
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\bin\Debug\net7.0\TriangleTypeIdentifierApp.exe
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\bin\Debug\net7.0\TriangleTypeIdentifierApp.deps.json
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\bin\Debug\net7.0\TriangleTypeIdentifierApp.runtimeconfig.json
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\bin\Debug\net7.0\TriangleTypeIdentifierApp.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\bin\Debug\net7.0\TriangleTypeIdentifierApp.pdb
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.AssemblyInfoInputs.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.AssemblyInfo.cs
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.csproj.CoreCompileInputs.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\refint\TriangleTypeIdentifierApp.dll
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.pdb
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\TriangleTypeIdentifierApp.genruntimeconfig.cache
+C:\Users\Nana\source\repos\DCIT318\GradeCalculator\TriangleTypeIdentifierApp\obj\Debug\net7.0\ref\TriangleTypeIdentifierApp.dll

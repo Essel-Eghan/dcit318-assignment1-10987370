@@ -4,7 +4,7 @@ class TicketCalculator
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the Movie Theater Ticket Calculator");
+        Console.WriteLine("Welcome to My Movie Theater Ticket Calculator ");
         Console.Write("Enter your name: ");
         string userName = Console.ReadLine();
 
